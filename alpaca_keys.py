@@ -1,0 +1,2 @@
+myAPIKey = 'PKFAGCZT0J9VRDEPHDCG'
+mySecretKey = 'IoIGOgOrbOyvJxHJvzhTuSzdKQu89PalO8GYVzKx'
