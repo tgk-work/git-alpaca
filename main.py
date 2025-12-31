@@ -80,7 +80,7 @@ data_dict = {}
 for tf, name in timeframes:
     df = get_last_n_bars(tf, N_BARS)
     data_dict[name] = df
-# just some random change to see how git works.
+
 # ------------------------------------------------------------------
 # 3. Compute indicators
 # ------------------------------------------------------------------
